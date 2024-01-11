@@ -1,1 +1,2 @@
-First version of reset file!
+First version of reset file! - Ignore this
+Second version of reset file!
