@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-This is the first version of revert file!!! - Ignore this
-This is the second verson of revert file!!! - Ignore this
-This is the third version of revert file!!!
-=======
-1
-2
->>>>>>> parent of 91467a2 (First versioon of revert file)
